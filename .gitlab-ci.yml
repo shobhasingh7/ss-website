@@ -9,7 +9,6 @@ deploy-pages:
   script:
     - gem install bundler
     - bundle install
-    - bundle install jekyll-theme-lanyon
     - bundle exec jekyll build -d public
   pages: true  # specifies that this is a Pages job
   artifacts:
