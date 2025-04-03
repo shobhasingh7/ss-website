@@ -9,6 +9,7 @@ deploy-pages:
   script:
     - gem install bundler
     - bundle install
+    - bundle update jekyll-athena
     - bundle exec jekyll build -d public
   pages: true  # specifies that this is a Pages job
   artifacts:
