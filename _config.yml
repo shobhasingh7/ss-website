@@ -1,6 +1,11 @@
-remote_theme: just-the-docs/just-the-docs
+remote_theme: jekyll-theme-chirpy/jekyll-theme-chirpy
+
 plugins:
   - jekyll-default-layout
 
-title: [Shobha G Singh Personal Website]
+title: [Shobha  Singh Personal Website]
 description: [A site to tell about Shobha G. Singh]
+logo: "/assets/images/ss.png"
+favicon_ico: "/assets/images/favicon.ico"
+search_enabled: true
+
