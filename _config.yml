@@ -1,4 +1,4 @@
-remote_theme: jekyll-theme-chirpy/jekyll-theme-chirpy
+remote_theme: jekyll-theme-chirpy
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
