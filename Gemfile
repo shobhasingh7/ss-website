@@ -1,8 +1,12 @@
 source "https://rubygems.org"
 
-gem "jekyll", '~>3.3'
+gem "jekyll", '~>3.9'
 
 gem "jekyll-default-layout"
+gem "jekyll-theme-primer"
+gem "jekyll-github-metadata"
+gem "jekyll-seo-tag"
+
 gem "html-proofer", "~> 5.0", group: :test
 
 platforms :mingw, :x64_mingw, :mswin, :jruby do
