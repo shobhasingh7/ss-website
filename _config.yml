@@ -1,5 +1,6 @@
 remote_theme: jekyll-theme-chirpy/jekyll-theme-chirpy
 
+incremental: true
 
 title: [Shobha Singh Personal Website]
 description: [A site to tell about Shobha G. Singh]
